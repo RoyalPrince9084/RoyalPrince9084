@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoyalPrince9084)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RoyalPrince9084&show_icons=true)  
+ 
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RoyalPrince9084)  
+ 
+ ![GitHub metrics](https://metrics.lecoq.io/RoyalPrince9084)  
+ 
+ ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=RoyalPrince9084)  
+ 
+ ![Profile views](https://gpvc.arturio.dev/RoyalPrince9084)  
+ 
+ ## My Contributions Are Eaten By Snake
+ ![snake gif](https://github.com/RoyalPrince9084/RoyalPrince9084/blob/output/github-contribution-grid-snake.gif)
