@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 Pushpender Singh Tomar
+
+I'm Pushpender Tomar from India. I am a Game Developer. I have done my schooling from my home town and then after done my Diploma in Computer Science in Engineering. I am always be a game ethusiast since my childhood. So i just take this to my career path as well. After my college completed i just polished my self to being a developer and ready to start my journey in gaming industry. Apart from the game thing i am also a player ,I win some of the tournament in college level, Also I play Cricket, Swimming e.t.c. So I am mentally and physically fit in all around. I have made some of my games as a project like - Brick Breaker, Dragon Warrior, Angry bird e.t.c.
 
 <!--
 **RoyalPrince9084/RoyalPrince9084** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
